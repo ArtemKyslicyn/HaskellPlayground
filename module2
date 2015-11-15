@@ -1,0 +1,5 @@
+module  Module2 where
+
+not :: Bool -> Bool
+not True  = False
+not False = True

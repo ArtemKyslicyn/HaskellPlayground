@@ -1,0 +1,10 @@
+
+f :: Integer -> Integer
+f x = x + 3
+
+asdf :: String -> String
+asdf x =  "hello" ++ x
+
+myFunc::Int -> Int
+myFunc x =xsssn
+
